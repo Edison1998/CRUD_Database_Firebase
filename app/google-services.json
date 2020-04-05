@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "876165946552",
+    "firebase_url": "https://fir-edson.firebaseio.com",
+    "project_id": "fir-edson",
+    "storage_bucket": "fir-edson.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:876165946552:android:0ff41b4b66f156b4de284d",
+        "android_client_info": {
+          "package_name": "com.example.Edson.crud_database_firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "876165946552-a3tees14tn7pb4ogbt2p8kukejkngc5g.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.Edson.crud_database_firebase",
+            "certificate_hash": "8e2127ff8c6b5740d5b54468a9a46388e90c1e09"
+          }
+        },
+        {
+          "client_id": "876165946552-69c1rstumvqoeajfc2ecip6et3psirl3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyChz-i_3ruQefBztnYKtl5EtjYBI5lo0QI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "876165946552-69c1rstumvqoeajfc2ecip6et3psirl3.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
